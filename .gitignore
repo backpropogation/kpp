@@ -1,0 +1,8 @@
+*.pyc
+*.npy
+*.csv
+*.hdf5
+*.tif
+*.png
+/venv
+.idea
